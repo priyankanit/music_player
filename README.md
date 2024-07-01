@@ -1,6 +1,8 @@
 # music_player
 
-.
+The music player app features a minimalistic interface with album artwork display, customizable playlists, playback controls including shuffle and repeat, and seamless integration with popular streaming services. It supports offline playback and provides detailed information about each track.
+Neumorphism is used as a part of UI Design which gives it an aesthetiv look.
+
 
 ## Getting Started
 
