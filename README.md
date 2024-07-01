@@ -1,6 +1,6 @@
 # music_player
 
-A new Flutter project.
+.
 
 ## Getting Started
 
@@ -15,7 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![white settingpage](https://github.com/priyankanit/music_player/assets/26275749/8949d65c-f5f1-44ca-bf4d-703707f63f7a)
-![white settingpage](https://github.com/priyankanit/music_player/assets/26275749/0ccd1f4e-1acb-4143-8316-59cc57363f1b)
+![music playlist white](https://github.com/priyankanit/music_player/assets/26275749/75bd9003-2778-4184-8727-1ef68ddec394)
+![Naina White](https://github.com/priyankanit/music_player/assets/26275749/d73bd0f9-3cab-418d-9947-8b0cdb761240)
+
+
+License
 
 This notebook is created by Priyanka Gautam and is licenced under MIT.
