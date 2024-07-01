@@ -1,26 +1,33 @@
-# music_player
+# Music Player Application
 
-The music player app features a minimalistic interface with album artwork display, customizable playlists, playback controls including shuffle and repeat, and seamless integration with popular streaming services. It supports offline playback and provides detailed information about each track.
-Neumorphism is used as a part of UI Design which gives it an aesthetiv look.
+Welcome to the Neumorphic Music Player application! This app is developed in Flutter and offers a sleek, user-friendly interface with features like playlists, shuffle, and repeat options. The design is inspired by neumorphism, giving the UI a soft, realistic, and slightly 3D appearance.
 
+## Features
+
+- **Playlist Management**: Create and manage your own playlists.
+- **User Experience UI**: Enjoy a smooth and visually appealing user interface.
+- **Shuffle**: Play songs in a random order.
+- **Repeat**: Repeat the current song or playlist.
+- **Neumorphism Design**: A modern, soft UI that mimics real-world objects.
+
+## Screenshots
+
+<img src="assets\images\player.png" alt="Music Player" width="800" height="600">
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow the steps below:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- An IDE with Flutter support: VS Code, Android Studio, etc.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
 
-![music playlist white](https://github.com/priyankanit/music_player/assets/26275749/75bd9003-2778-4184-8727-1ef68ddec394)
-![Naina White](https://github.com/priyankanit/music_player/assets/26275749/d73bd0f9-3cab-418d-9947-8b0cdb761240)
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/neumorphic_music_player.git
 
 
-License
-
-This notebook is created by Priyanka Gautam and is licenced under MIT.
+This App is created by Priyanka Gautam and is licenced under MIT.
